@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>Win10Boxstarter</id>
+    <version>1.0.0</version>
+    <authors>sheldon</authors>
+    <owners>sheldon</owners>
+    <description>Boxstarter package for fresh install of Windows 10</description>
+    <tags>Boxstarter</tags>
+  </metadata>
+</package>
